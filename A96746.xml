@@ -1,0 +1,161 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration of Major George Wither, prisoner in the Tower of London with his desires to Sir John Robinson, His Majesties lieutenant: writ on three fair trenchers, with a piece of char-coal. Worthy of the readers serious perusal.</title>
+            <author>Wither, George, 1588-1667.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1662</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 6 KB of XML-encoded text transcribed from 4 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2013-12">2013-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A96746</idno>
+            <idno type="STC">Wing W3152A</idno>
+            <idno type="STC">ESTC R230911</idno>
+            <idno type="EEBO-CITATION">99896073</idno>
+            <idno type="PROQUEST">99896073</idno>
+            <idno type="VID">153768</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A96746)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 153768)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 2378:3)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration of Major George Wither, prisoner in the Tower of London with his desires to Sir John Robinson, His Majesties lieutenant: writ on three fair trenchers, with a piece of char-coal. Worthy of the readers serious perusal.</title>
+                  <author>Wither, George, 1588-1667.</author>
+               </titleStmt>
+               <extent>7, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>printed for S. Jones,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1662.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>DFo copy, reel 2378, is cropped at head affecting text.</note>
+                  <note>Reproduction of original in the Folger Shakespeare Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Prisoners' writings, English --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-04</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-06</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Sampled and proofread</change>
+         <change>
+            <date>2013-01</date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2013-02</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:153768:1" rendition="simple:additions"/>
+            <p>A DECLARATION OF MAJOR George Wither, Priſoner in the Tower of LONDON With his Deſires to Sir <hi>John Robinſon,</hi> His Majeſties Lieute<g ref="char:EOLhyphen"/>nant: Writ on three fair Trenchers, with a Piece of Char-Coal. Worthy of the <hi>Readers</hi> ſerious Peruſal.</p>
+            <figure>
+               <figDesc>depiction of George Wither</figDesc>
+            </figure>
+            <p>
+               <hi>London,</hi> Printed for <hi>S. Jones.</hi> 1662.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:153768:2"/>
+            <pb facs="tcp:153768:2" rendition="simple:additions"/>
+            <head>A DECLARATION Of Major George Withers, Priſoner in the Tower of LONDON;</head>
+            <head type="sub">Concerning the Kings moſt Excel<g ref="char:EOLhyphen"/>lent Majeſty, the Presbyterian Party, and all publick and private Congregati<g ref="char:EOLhyphen"/>ons whatſoever, &amp;c.</head>
+            <p>VVHereas the Rebels of King <hi>David</hi> conſtrained him to flight, and God was pleaſed to bring him home a<g ref="char:EOLhyphen"/>gain, it is apparent, that thoſe who at firſt had been very forward to drive Him out, at laſt, made haſte
+<pb facs="tcp:153768:3"/>to joyn with thoſe who had been Inſtrumental to bring Him in: And He, with God in Mercy ſo complyd that Indempnity was granted, and not a man for that Rebellion ſuffered Death, it being <hi>Abſalom</hi> that had contrived the Treaſon, deceiving the well-meaning People.</p>
+            <p>And although that Rebellion coſt a Traittous Childs Life; yet it cannot be denied, but by our unnatural War, a Royal Fathers Life was loſt: And through Providence and Iuſtice, after many Years, the Heavens cryed aloud for this Royal Martyr, and ſome blood-ſhed that produced Trai<g ref="char:EOLhyphen"/>tors having their juſt Rewards. Yet by all true Subjects and Humane Reaſon His Gracious Ma<g ref="char:EOLhyphen"/>jeſtie may be juſtly excuſed; Whom Natural Affe<g ref="char:EOLhyphen"/>ction moved to ſhed, the Blood of ſuch Barbarous Wretches, by whom His Royal Father received Martyrdom.</p>
+            <p>And ſince it pleaſed the Moſt High, to indue His Princely Heart from above with Mercies moſt in<g ref="char:EOLhyphen"/>finite ſo I wiſh that every one in his reſpective place and ſtation may not onely have a high eſteem, but forever prize ſo great and ſignal a Mercie, as the happy Reſtoration of His Sacred Majeſtie: for in<g ref="char:EOLhyphen"/>deed, no Iem ſo beautifies a Royal Diadem, as Mercie, when it is enamelled with Iuſtice, and re<g ref="char:EOLhyphen"/>veted with Prudence.</p>
+            <p>And as to this His Majeſties happy Reſtoration, ſame queſtionleſs, out of true Loyaltie, and juſt Al<g ref="char:EOLhyphen"/>legiance, contributed to His Majeſties Accommo<g ref="char:EOLhyphen"/>dation; and ſome again no doubt, onely to work their own Salvation out.</p>
+            <p>But this is a moſt aſſured Truth, that many who
+<pb facs="tcp:153768:3" rendition="simple:additions"/>formerly contained againſt Majeſtie it ſelf, are now ſo truly convinced of their former Errors and the excellencie of His Majeſties abundant Worth and Princely Endowments, that His Royal Perſon in them is ſafe: for in ſuch who have received His Majeſties Gractous Pardon, and unparalleld Cle<g ref="char:EOLhyphen"/>mencie, there will Love and Loyaltie much encreaſe and abound.</p>
+            <p>And as for my own particular, I muſt ingenu<g ref="char:EOLhyphen"/>ouſly Declare, That I who compulſively obeyed the late preceding Powers, doth now moſt willingly ſubmit to His Majeſties; promiſing all due Alle<g ref="char:EOLhyphen"/>giance to His Sacred Majeſtie</p>
+            <p>Further Declaring, That when I ſaw God on His Side appear, I was reclaimed not by Fear, but Conſcience. Yea not onely fore-ſeeing, but al<g ref="char:EOLhyphen"/>ſo fore-telling the Downfal and Ruine of the Vſur<g ref="char:EOLhyphen"/>pers then in Power.</p>
+            <p>And that His Majeſties Happineſs and Pro<g ref="char:EOLhyphen"/>ſperitie may ſurvive and flouriſh from my Soul I humbly unplore and deſire, That His Majeſtie may ſuch means aſſay, not giving Ear to thoſe who would withſtand the Good and Proſperitie of His Majeſtie, the Peace of the Church the Welfare of theſe his Majeſties Realms and Dominions, and the Work which God hath now in hand.</p>
+            <p>And whatever doth befall I ſhall diſcharge my Conſcience, hoping that will not wholly be deſpiſed, which here in all Loyaltie and Faithfulneſſe. I humbly ſupplicate. <hi>That Juſtice may be His Maje<g ref="char:EOLhyphen"/>ſties Scepter, and Mercy His Crown: And that it may long flouriſh on His Princely Head, and the reſt of the Royal Progeny, ſo long as the Sun and Moon ſhall endure.</hi>
+            </p>
+            <pb facs="tcp:153768:4"/>
+            <p> And the onely Peace <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> my Soul <gap reason="illegible" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap>. That Hi<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap> Majeſtie may take all Opportunities to render Him a Bleſſed Inſtrument, not onely to raign gloriouſly here, but alſo to Eternity hereafter: And that His Earthly Throne may appear more glorious, then the Throne of any Prince whatſoever ſince the Con<g ref="char:EOLhyphen"/>queſt.</p>
+            <p>And that His Name may be a Terror to all His Enemies, and ſhame and confuſion to befall thoſe who ſhall dare to diſturb the true Peace and Tran<g ref="char:EOLhyphen"/>quility of theſe Nations.</p>
+            <p>And for my own particular, I ſhall patiently ſub<g ref="char:EOLhyphen"/>mit to the Divine Will and Pleaſure of the King of all Kings, and what His Vicegerent on Earth ſhall be pleaſed to do, not asking (whatſoere I ſeem to want,) ought more then His Majeſtie ſhall graci<g ref="char:EOLhyphen"/>ouſly be pleaſed to grant: Not doubting, but what is wanting here on Earth, will be ſupplied to me in Heaven.</p>
+            <p>
+               <hi>Many ſuch like Papers did he write, during his Confinement in the Preſs-yard at Newgate, ſome whereof being of very dangerous Con<g ref="char:EOLhyphen"/>ſequence, and not fitting to be publiſhed. And ſince his being removed from thence to the Tower, Sir John Robinſon His Majeſties Lieu<g ref="char:EOLhyphen"/>tenant had Orders to detain him Cloſe Priſo<g ref="char:EOLhyphen"/>ner, and to keep him from Pen Ink and Paper; Which accordingly was done, but with as much Civility, as poſsible could be expected for any one in his Condition.</hi>
+            </p>
+            <pb n="7" facs="tcp:153768:4" rendition="simple:additions"/>
+            <p> 
+               <hi>Yet notwithſtanding this ſomewhat began to exaſperate his troubled Spirits, and after ſome contemplation, was moved to write to the Lieu<g ref="char:EOLhyphen"/>tenant with a piece of Charcoal, on three fair Trenchers, Deſiring what favour poſsibly could might be allowed him; and that as he was an<g ref="char:EOLhyphen"/>tient, ſome Liberty might be extended towards him, &amp;c.</hi>
+            </p>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
